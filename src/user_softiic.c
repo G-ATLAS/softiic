@@ -12,6 +12,8 @@
 #include "user_softiic.h"
 /****** include  end  ******/
 
+//@@@test point.
+
 /* Private variables ---------------------------------------------------------*/
 /****** Private variables begin ******/
 struct SIIC_Device *pSIICWorkList =NULL;
